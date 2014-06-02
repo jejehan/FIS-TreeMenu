@@ -13,5 +13,6 @@ instalasi:
 2. restore data onproject ada di folder data
 3. setting koneksi ada di file conn.asp
 4. lalu jalankan file 
-  a.index.asp       = tampilan tree menu standart
-  b. index-editable = tampilan tree menu yang bisa diedit
+    a.index.asp       = tampilan tree menu standart
+    b. index-editable = tampilan tree menu yang bisa diedit
+
